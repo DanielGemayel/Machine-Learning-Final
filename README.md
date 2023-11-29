@@ -1,4 +1,5 @@
 Youtube URL: https://youtu.be/R7i7f67W_rA
+
 Abstract:
 Given the variety of available Machine Learning (ML) models and the importance of evaluating their performance, the purpose of this report is to investigate and compare various ML algorithms such as Linear Regression, Ridge, Lasso, Decision Tree, Kernel Trick, Bagging (Bootstrap Aggregating), and AdaBoost to train a predictive model to estimate the alcohol content of white wine. The study will conduct a thorough comparative analysis of these models to identify the best one for predicting white wine alcohol content.
 
